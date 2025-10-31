@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; margin: 0; }
+input, textarea, button { padding: 8px; font-size: 14px; }
+button { cursor: pointer; }
